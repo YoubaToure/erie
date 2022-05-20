@@ -1,1 +1,2 @@
 Etudiant A , B , C
+Etudiant D, E , F
